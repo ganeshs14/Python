@@ -1,2 +1,2 @@
 # Python
-Data Science Training Program.
+Data Science Training Program by ShapeAI.
